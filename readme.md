@@ -31,7 +31,7 @@ The customer is then asked the following questions in sequential order:
     Your order has been placed! Your total is $29.950000000000003
     Thank you for shopping with us!"
     
-    [Bamazon Demo] (https://goo.gl/75FPyU)
+    [Bamazon Demo] https://goo.gl/75FPyU
 
 
 ## Acknowledgments
